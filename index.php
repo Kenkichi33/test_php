@@ -5,5 +5,5 @@
  $smarty = new Smarty();
  $smarty->display(__TEMPLATE__.'index.tpl');
  
- print('test');
+ print('test2');
 ?>
